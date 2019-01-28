@@ -1,2 +1,2 @@
 # study_spider
-学习Python爬虫的一些代码
+更新了MeiZiTu.py 主要是通过爬取meizitu并通过pyqt5界面展现
